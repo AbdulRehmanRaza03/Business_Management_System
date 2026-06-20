@@ -1,0 +1,12 @@
+[
+  {"id": "PRD001", "name": "iPhone 15 Pro", "category": "Electronics", "purchase_price": 85000, "selling_price": 110000, "stock": 25, "supplier": "Apple Distributors", "date_added": "2024-01-15", "store_mode": "national"},
+  {"id": "PRD002", "name": "Samsung Galaxy S24", "category": "Electronics", "purchase_price": 70000, "selling_price": 95000, "stock": 18, "supplier": "Samsung PK", "date_added": "2024-01-20", "store_mode": "national"},
+  {"id": "PRD003", "name": "Nike Air Max", "category": "Footwear", "purchase_price": 8000, "selling_price": 14000, "stock": 45, "supplier": "Nike PK", "date_added": "2024-02-01", "store_mode": "national"},
+  {"id": "PRD004", "name": "Levi's 501 Jeans", "category": "Clothing", "purchase_price": 4500, "selling_price": 8500, "stock": 60, "supplier": "Levi's Pakistan", "date_added": "2024-02-10", "store_mode": "national"},
+  {"id": "PRD005", "name": "Dell XPS 15", "category": "Electronics", "purchase_price": 180000, "selling_price": 230000, "stock": 8, "supplier": "Dell PK", "date_added": "2024-02-15", "store_mode": "national"},
+  {"id": "PRD006", "name": "Sony WH-1000XM5", "category": "Electronics", "purchase_price": 35000, "selling_price": 55000, "stock": 3, "supplier": "Sony PK", "date_added": "2024-03-01", "store_mode": "national"},
+  {"id": "PRD007", "name": "Adidas Ultraboost", "category": "Footwear", "purchase_price": 9000, "selling_price": 16000, "stock": 30, "supplier": "Adidas PK", "date_added": "2024-03-05", "store_mode": "national"},
+  {"id": "PRD008", "name": "Kitchen Blender Pro", "category": "Home Appliances", "purchase_price": 5000, "selling_price": 8000, "stock": 2, "supplier": "Home Essentials", "date_added": "2024-03-10", "store_mode": "national"},
+  {"id": "PRD009", "name": "MacBook Air M3", "category": "Electronics", "purchase_price": 210000, "selling_price": 270000, "stock": 12, "supplier": "Apple Distributors", "date_added": "2024-03-15", "store_mode": "national"},
+  {"id": "PRD010", "name": "Cotton T-Shirt Pack", "category": "Clothing", "purchase_price": 1200, "selling_price": 2500, "stock": 120, "supplier": "Local Textile", "date_added": "2024-03-20", "store_mode": "national"}
+]

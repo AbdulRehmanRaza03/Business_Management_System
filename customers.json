@@ -1,0 +1,7 @@
+[
+  {"id": "CUS001", "name": "Ahmed Khan", "phone": "0300-1234567", "email": "ahmed.khan@email.com", "city": "Lahore", "date_joined": "2024-01-15", "total_orders": 3, "total_spent": 306050},
+  {"id": "CUS002", "name": "Sara Ali", "phone": "0321-9876543", "email": "sara.ali@email.com", "city": "Karachi", "date_joined": "2024-01-22", "total_orders": 2, "total_spent": 169480},
+  {"id": "CUS003", "name": "Bilal Raza", "phone": "0333-5678901", "email": "bilal.raza@email.com", "city": "Islamabad", "date_joined": "2024-02-01", "total_orders": 2, "total_spent": 473850},
+  {"id": "CUS004", "name": "Fatima Sheikh", "phone": "0345-2345678", "email": "fatima.sheikh@email.com", "city": "Lahore", "date_joined": "2024-02-15", "total_orders": 2, "total_spent": 342225},
+  {"id": "CUS005", "name": "Usman Tariq", "phone": "0312-3456789", "email": "usman.tariq@email.com", "city": "Faisalabad", "date_joined": "2024-03-05", "total_orders": 1, "total_spent": 70540}
+]
